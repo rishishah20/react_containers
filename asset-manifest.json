@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_containers.git/static/css/main.a5bb76c7.css",
+    "main.js": "/react_containers.git/static/js/main.827b4e07.js",
+    "static/js/136.f0993360.chunk.js": "/react_containers.git/static/js/136.f0993360.chunk.js",
+    "index.html": "/react_containers.git/index.html",
+    "main.a5bb76c7.css.map": "/react_containers.git/static/css/main.a5bb76c7.css.map",
+    "main.827b4e07.js.map": "/react_containers.git/static/js/main.827b4e07.js.map",
+    "136.f0993360.chunk.js.map": "/react_containers.git/static/js/136.f0993360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5bb76c7.css",
+    "static/js/main.827b4e07.js"
+  ]
+}
